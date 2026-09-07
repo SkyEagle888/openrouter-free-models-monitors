@@ -372,6 +372,14 @@
       ],
       "removed": [],
       "total_models": 19
+    },
+    {
+      "timestamp": "2026-09-07T13:31:04.850499Z",
+      "added": [],
+      "removed": [
+        "z-ai/glm-5.2:free"
+      ],
+      "total_models": 18
     }
   ]
 }
